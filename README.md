@@ -10,7 +10,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Jemi-code/NFTPreviewCard.git)
-- Live Site URL: [Add live site URL here](https://jemi-code.github.io/NFTPreviewCard/)
+- Live Site URL: [URL](https://jemi-code.github.io/NFTPreviewCard/)
 
 ## My process
 
